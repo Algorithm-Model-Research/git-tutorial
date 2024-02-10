@@ -72,3 +72,6 @@
 - Git and GitHub documentation. [Git Documentation](https://git-scm.com/doc) [GitHub Documentation](https://docs.github.com/en)
 - Online tutorials and community forums. [Online Tutorials and Community Forums](https://github.community/)
 - Advanced topics for further learning. [Advanced Learning Topics](https://docs.github.com/en/github/getting-started-with-github/growing-your-community)
+
+# Arthor & Maintainned by:
+### Ronaldson Bellande
